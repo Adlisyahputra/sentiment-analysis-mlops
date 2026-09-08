@@ -217,5 +217,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-   mlruns/
-   mlflow.db
+mlruns/
+mlflow.db
